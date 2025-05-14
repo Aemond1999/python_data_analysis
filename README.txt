@@ -1,2 +1,1 @@
-master
-branch_b
+hello master
